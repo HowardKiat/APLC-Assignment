@@ -17,7 +17,7 @@ The data is derived from weather records and analysed to extract patterns and fu
 
 ---
 
-## 📌 Functional Programming Tasks (`weather.js`)
+## 📌 Functional Programming Tasks (`analysis.js`)
 
 ### ✅ Features Implemented:
 - ✔️ **Display** all weather records (MinTemp, MaxTemp, Rainfall, WindGustSpeed)
